@@ -1,4 +1,5 @@
 # CSEG2146
+<<<<<<< HEAD
 DataBase Management  System Lab
 Experiment 1: Title: Consider the following set of requirements for a UNIVERSITY database that is used to keep track of students’ transcripts
 
@@ -45,3 +46,5 @@ EXPERIMENT-21 Title: To understand the concepts of NoSQL Database
 EXPERIMENT-22 Mini Project – On SQL
 
 EXPERIMENT-23 Mini Project- On NoSQL
+=======
+>>>>>>> faadcbb (Initial commit)
